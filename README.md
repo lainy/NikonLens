@@ -45,12 +45,17 @@ result = NikonLens.sendCommand(0x41, 2, fromLens);
 ```
 Details about the commands used can be found on the [Nikon Hacker Wiki] under [Lens Serial Interface].
 
+Documentation
+-------------
+[API Docs] [API Documentation] are generated using [Doxygen].
+
 TODO
 ----
  - Implement functions for sending known commands, like:  
    `AutoFocus(u8 param1_unknown, tDirection dir, u16 steps)`
  - Toss some example code in the repo.
  - Better documentation on the lens commands here and at [Nikon Hacker Wiki].
+ - Add main page to [API Documentation]
  - ... I'm sure there's more, I'll update this as things come up.
 
 License
@@ -60,3 +65,5 @@ MIT
 [Nikon Hacker]:https://nikonhacker.com/
 [Nikon Hacker Wiki]:https://nikonhacker.com/wiki/Main_Page
 [Lens Serial Interface]:https://nikonhacker.com/wiki/Lens_Serial_Interface
+[API Documentation]:https://lainy.github.io/NikonLens/classlain_1_1t_nikon_lens.html
+[Doxygen]:http://www.stack.nl/~dimitri/doxygen/
