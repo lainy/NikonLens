@@ -56,6 +56,8 @@ TODO
  - Toss some example code in the repo.
  - Better documentation on the lens commands here and at [Nikon Hacker Wiki].
  - Add main page to [API Documentation]
+ - Add schematic to [API Documentation] so it's easier to understand the wiring. Include voltages and whatnot.
+ - Move this todo to a wiki or something maybe.
  - ... I'm sure there's more, I'll update this as things come up.
 
 License
