@@ -1,7 +1,6 @@
 NikonLens for Arduino
 =====================
-Unfinished library for controlling Nikon F-mount lenses from an Arduino.
-
+Unfinished library for controlling Nikon F-mount lenses from an Arduino.  
 Publishing this as a starting point for others, as I have been busy elsewhere. Please feel free to contribute!
 
 Based on work by myself and the developers at [Nikon Hacker].
