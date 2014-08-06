@@ -6,8 +6,8 @@ Publishing this as a starting point for others, as I have been busy elsewhere. P
 
 Based on work by myself and the developers at [Nikon Hacker].
 
-Project status:
-![Procrastination!](https://i.imgur.com/3naiPgj.gif "Procrastination!"]
+Project status:  
+![Procrastination!](https://i.imgur.com/3naiPgj.gif "Procrastination!")  
 Happy to accept pull requests, unsure when I'll have time for hacking on it myself.
 
 ---
@@ -48,8 +48,7 @@ Details about the commands used can be found on the [Nikon Hacker Wiki] under [L
 
 TODO
 ----
- - Implement functions for sending known commands, like:
-
+ - Implement functions for sending known commands, like:  
    `AutoFocus(u8 param1_unknown, tDirection dir, u16 steps)`
  - Toss some example code in the repo.
  - Better documentation on the lens commands here and at [Nikon Hacker Wiki].
