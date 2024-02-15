@@ -38,8 +38,8 @@ namespace lain {
 //! Control Nikon F-mount lenses from an Arduino
 /*! Nikon lenses use a modified version of SPI.
  * See also:
- *  -    Protocol: http://nikonhacker.com/wiki/Lens_Serial_Interface
- *  -      Pinout: http://nikonhacker.com/wiki/F-Mount
+ *  -    Protocol: https://web.archive.org/web/20230323004623/http://nikonhacker.com/wiki/Lens_Serial_Interface
+ *  -      Pinout: https://web.archive.org/web/20230323004623/http://nikonhacker.com/wiki/F-Mount
  *  - Arduino SPI: http://arduino.cc/en/Reference/SPI
  * 
  * Connections are as follows (with Arduino Uno pin numbers):
